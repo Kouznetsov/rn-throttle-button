@@ -11,7 +11,7 @@ export default class ThrottleButton extends Component {
             this.canPress = false;
             setTimeout(() => this.canPress = true, this.props.pressThrottle);
         }
-    };np
+    };
 
     render() {
         return (

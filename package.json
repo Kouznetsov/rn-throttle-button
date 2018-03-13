@@ -4,6 +4,7 @@
   "license": "MIT",
   "description": "A button that allows to add a delay between clicks to avoid multiple presses occuring.",
   "keywords": "react-native",
+  "repository": "https://github.com/Kouznetsov/rn-throttle-button",
   "main": "index.js",
   "peerDependencies": {
     "react": "^16.2.0",
